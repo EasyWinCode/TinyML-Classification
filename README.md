@@ -1,11 +1,9 @@
 # TinyML-Classification
 **TinyML Classification for Agriculture Objects with ESP32**
 
-  **by Danila Donskoy*, Valeria Gvindjiliya and Evgeniy Ivliev**
+  **by Danila Donskoy, Valeria Gvindjiliya and Evgeniy Ivliev**
   
   Laboratory “Modeling and Development of Intelligent Agricultural Engineering Systems”, Don State Technical University, Rostov-on-Don 344000, Russia
-  
-  *Author to whom correspondence should be addressed.
   
   Article on MDPI: **https://www.mdpi.com/2673-6470/5/4/48**
 
