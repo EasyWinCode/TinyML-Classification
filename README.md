@@ -13,4 +13,7 @@
 
 <img width="706" height="428" alt="image" src="https://github.com/user-attachments/assets/c27c0ba0-b0fd-4625-9273-87d4f16f9248" />
 
+ **Funding**
+ This work was carried out within the framework of the project “Mathematical modeling and algorithms for modeling plant growth based on an automated cartographic system” (FZNE2024-0006).
+
 Contacts for questions: dand22@bk.ru
